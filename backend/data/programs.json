@@ -1,0 +1,372 @@
+[
+  {
+    "id": "p001",
+    "name": "MIT Research Science Institute (RSI)",
+    "subjectAreas": [
+      "computer science",
+      "mathematics",
+      "physics",
+      "engineering",
+      "biology"
+    ],
+    "location": "Cambridge, MA",
+    "format": "in-person",
+    "cost": 0,
+    "duration": "6 weeks",
+    "durationWeeks": 6,
+    "gradeEligibility": [
+      11,
+      12
+    ],
+    "minGPA": 3.8,
+    "description": "RSI is one of the nation's most selective and prestigious pre-college STEM programs, hosted at MIT. Students conduct original research with MIT faculty mentors and graduate students. The program is entirely free and highly competitive, accepting roughly 80 students per year from thousands of applicants worldwide.",
+    "highlights": [
+      "Free to attend",
+      "Original research with MIT faculty",
+      "Top-tier mentorship",
+      "Highly selective"
+    ],
+    "safety": "High 🟢"
+  },
+  {
+    "id": "p002",
+    "name": "Stanford Pre-Collegiate Summer Institutes",
+    "subjectAreas": [
+      "mathematics",
+      "computer science",
+      "humanities",
+      "social sciences",
+      "writing"
+    ],
+    "location": "Stanford, CA",
+    "format": "in-person",
+    "cost": 7500,
+    "duration": "3 weeks",
+    "durationWeeks": 3,
+    "gradeEligibility": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "minGPA": 3.5,
+    "description": "Stanford's Pre-Collegiate Summer Institutes offer intensive, university-level courses in a wide range of subjects. Students experience college life on Stanford's campus while mastering challenging material alongside peers from across the globe. Courses are taught by Stanford faculty and doctoral students.",
+    "highlights": [
+      "Stanford campus experience",
+      "University-level coursework",
+      "Global peer network",
+      "Multiple subjects"
+    ],
+    "safety": "High 🟢"
+  },
+  {
+    "id": "p003",
+    "name": "Harvard Secondary School Program",
+    "subjectAreas": [
+      "humanities",
+      "social sciences",
+      "biology",
+      "economics",
+      "writing",
+      "law"
+    ],
+    "location": "Cambridge, MA",
+    "format": "in-person",
+    "cost": 5800,
+    "duration": "7 weeks",
+    "durationWeeks": 7,
+    "gradeEligibility": [
+      10,
+      11,
+      12
+    ],
+    "minGPA": 3.3,
+    "description": "Harvard's Secondary School Program offers students the opportunity to take college courses for credit at Harvard. Students live on campus, access Harvard's world-class libraries and facilities, and experience the full college environment. Courses span 60+ subjects from neuroscience to creative writing.",
+    "highlights": [
+      "Harvard credit courses",
+      "60+ course options",
+      "On-campus living",
+      "College-level experience"
+    ],
+    "safety": "High 🟢"
+  },
+  {
+    "id": "p004",
+    "name": "Johns Hopkins Center for Talented Youth (CTY)",
+    "subjectAreas": [
+      "mathematics",
+      "computer science",
+      "biology",
+      "chemistry",
+      "writing"
+    ],
+    "location": "Multiple US Locations",
+    "format": "in-person",
+    "cost": 4500,
+    "duration": "3 weeks",
+    "durationWeeks": 3,
+    "gradeEligibility": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "minGPA": 3.2,
+    "description": "CTY is a globally recognized gifted program that has served students with exceptional academic talent for over 40 years. Students dive deep into challenging academic subjects in a fast-paced, intellectually stimulating environment. CTY programs are available at multiple campuses across the US.",
+    "highlights": [
+      "40+ year legacy",
+      "Gifted student community",
+      "Multiple campus locations",
+      "Intensive coursework"
+    ],
+    "safety": "High 🟢"
+  },
+  {
+    "id": "p005",
+    "name": "Yale Young Global Scholars (YYGS)",
+    "subjectAreas": [
+      "social sciences",
+      "humanities",
+      "economics",
+      "politics",
+      "international relations",
+      "STEM"
+    ],
+    "location": "New Haven, CT",
+    "format": "in-person",
+    "cost": 5950,
+    "duration": "2 weeks",
+    "durationWeeks": 2,
+    "gradeEligibility": [
+      10,
+      11,
+      12
+    ],
+    "minGPA": 3.4,
+    "description": "YYGS is an intensive academic enrichment program for exceptional high school students from around the world. Students collaborate with peers from 140+ countries on topics including bioethics, sustainability, and applied science. The program emphasizes global citizenship and leadership development.",
+    "highlights": [
+      "Global student network",
+      "Leadership focus",
+      "140+ countries represented",
+      "Yale campus"
+    ],
+    "safety": "Moderate 🟡"
+  },
+  {
+    "id": "p006",
+    "name": "Coding School at USC",
+    "subjectAreas": [
+      "computer science",
+      "artificial intelligence",
+      "web development",
+      "data science"
+    ],
+    "location": "Los Angeles, CA",
+    "format": "in-person",
+    "cost": 2800,
+    "duration": "2 weeks",
+    "durationWeeks": 2,
+    "gradeEligibility": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "minGPA": 3,
+    "description": "An intensive coding and technology program hosted on the USC campus. Students build real-world projects in web development, AI, and data science guided by USC instructors. The program emphasizes hands-on learning and culminates in a group capstone project demo day.",
+    "highlights": [
+      "Hands-on coding projects",
+      "AI and data science tracks",
+      "Demo day showcase",
+      "USC campus"
+    ],
+    "safety": "Moderate 🟡"
+  },
+  {
+    "id": "p007",
+    "name": "Duke TIP Summer Studies",
+    "subjectAreas": [
+      "mathematics",
+      "natural sciences",
+      "humanities",
+      "social sciences",
+      "writing",
+      "arts"
+    ],
+    "location": "Durham, NC",
+    "format": "in-person",
+    "cost": 4200,
+    "duration": "3 weeks",
+    "durationWeeks": 3,
+    "gradeEligibility": [
+      10,
+      11,
+      12
+    ],
+    "minGPA": 3.3,
+    "description": "Duke TIP Summer Studies offers rigorous, college-level courses for high-achieving students. Taught by expert instructors, courses push students beyond traditional high school curricula into deeper exploration of challenging topics. Students live on Duke's beautiful campus and form lasting academic bonds.",
+    "highlights": [
+      "College-level depth",
+      "Expert instructors",
+      "Duke campus",
+      "Lasting peer community"
+    ],
+    "safety": "High 🟢"
+  },
+  {
+    "id": "p008",
+    "name": "iD Tech Camps",
+    "subjectAreas": [
+      "computer science",
+      "game design",
+      "artificial intelligence",
+      "robotics",
+      "animation"
+    ],
+    "location": "Multiple US Locations",
+    "format": "in-person",
+    "cost": 1200,
+    "duration": "1 week",
+    "durationWeeks": 1,
+    "gradeEligibility": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "minGPA": 2.8,
+    "description": "iD Tech is the largest tech camp in the world, offering week-long intensive programs in coding, game design, AI, robotics, and more. With small 5:1 student-to-instructor ratios, students get personalized attention and build impressive portfolios. Held at 75+ university campuses nationwide.",
+    "highlights": [
+      "75+ campus locations",
+      "5:1 student ratio",
+      "Portfolio building",
+      "Game design & AI tracks"
+    ],
+    "safety": "High 🟢"
+  },
+  {
+    "id": "p009",
+    "name": "Columbia University Summer Immersion Program",
+    "subjectAreas": [
+      "business",
+      "economics",
+      "writing",
+      "film",
+      "social sciences",
+      "pre-law",
+      "pre-med"
+    ],
+    "location": "New York, NY",
+    "format": "in-person",
+    "cost": 6200,
+    "duration": "3 weeks",
+    "durationWeeks": 3,
+    "gradeEligibility": [
+      10,
+      11,
+      12
+    ],
+    "minGPA": 3.2,
+    "description": "Columbia's Summer Immersion Program offers high school students a taste of Ivy League education in New York City. Students take university courses for credit, live in Columbia dormitories, and explore NYC's cultural landscape. The program is ideal for students considering careers in business, medicine, law, or the arts.",
+    "highlights": [
+      "Ivy League credit",
+      "NYC location",
+      "Career-focused tracks",
+      "Dorm living experience"
+    ],
+    "safety": "Moderate 🟡"
+  },
+  {
+    "id": "p010",
+    "name": "Envision Leadership Academy",
+    "subjectAreas": [
+      "leadership",
+      "business",
+      "entrepreneurship",
+      "social sciences",
+      "public speaking"
+    ],
+    "location": "Washington, D.C.",
+    "format": "in-person",
+    "cost": 2500,
+    "duration": "4 days",
+    "durationWeeks": 0.6,
+    "gradeEligibility": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "minGPA": 3,
+    "description": "Envision's Leadership Academy brings together motivated students in Washington, D.C. for an intensive leadership and civic engagement program. Students develop public speaking, teamwork, and entrepreneurial skills through workshops, simulations, and mentorship from professionals and policy leaders.",
+    "highlights": [
+      "Washington D.C. setting",
+      "Leadership & civic focus",
+      "Real professional mentors",
+      "Entrepreneurship workshops"
+    ],
+    "safety": "High 🟢"
+  },
+  {
+    "id": "p011",
+    "name": "MIT OpenCourseWare Summer Learning Path",
+    "subjectAreas": [
+      "computer science",
+      "mathematics",
+      "engineering",
+      "physics"
+    ],
+    "location": "Online",
+    "format": "online",
+    "cost": 0,
+    "duration": "8 weeks",
+    "durationWeeks": 8,
+    "gradeEligibility": [
+      10,
+      11,
+      12
+    ],
+    "minGPA": 3,
+    "description": "A self-paced online summer learning program built around MIT's free OpenCourseWare content. Students follow curated learning paths in STEM subjects, complete problem sets from actual MIT courses, and join weekly live Q&A sessions with MIT alumni mentors. Certificates are awarded upon completion.",
+    "highlights": [
+      "Completely free",
+      "MIT-level content",
+      "Self-paced flexibility",
+      "Alumni mentorship",
+      "Certificate upon completion"
+    ],
+    "safety": "N/A - Online 🌐"
+  },
+  {
+    "id": "p012",
+    "name": "Coursera for Campus Summer Accelerator",
+    "subjectAreas": [
+      "data science",
+      "artificial intelligence",
+      "business",
+      "computer science",
+      "social sciences"
+    ],
+    "location": "Online",
+    "format": "online",
+    "cost": 300,
+    "duration": "6 weeks",
+    "durationWeeks": 6,
+    "gradeEligibility": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "minGPA": 2.8,
+    "description": "A structured online summer accelerator offering guided Coursera specializations from top universities. Students choose from tracks in AI, data science, business, or social impact. Weekly cohort check-ins, peer projects, and a final presentation provide accountability and community despite the online format.",
+    "highlights": [
+      "Top university content",
+      "Multiple tracks",
+      "Cohort community",
+      "Low cost",
+      "Flexible schedule"
+    ],
+    "safety": "N/A - Online 🌐"
+  }
+]
