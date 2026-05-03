@@ -1,5 +1,7 @@
 # Vantion SmartMatch — Pre-College Program Discovery
 
+Demo: https://youtu.be/Ci_dQvXn_T8?si=20z1yaAUOJdG0sxF
+
 > An AI-assisted decision support feature that helps high school students discover and understand pre-college programs — like having an AI counselor in your corner.
 
 ## Current Highlights
